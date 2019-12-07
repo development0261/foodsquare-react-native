@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">foodsquare_mobile_app</string>
+    <string name="fb_app_id">422443025104862</string>
+    <string name="fb_login_protocol_scheme">fb422443025104862</string>
+    <string name="webClientId">415305768618-5ehirbcfbjg2inpegjv24a27jvu7qgnr.apps.googleusercontent.com</string>
+</resources>
